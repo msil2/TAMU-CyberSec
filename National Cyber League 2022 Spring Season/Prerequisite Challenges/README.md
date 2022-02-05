@@ -20,16 +20,18 @@
 
 # NOTE: For the pwn challenges and the oracle crypto challenge, you will need to connect to our server with the following script:
 
-> from pwn import *
+'''
+from pwn import *
 
-> context.log_level = "debug"
-> # change sni="whatever" to the challenge you want to connect to
-> io = remote("ctf.cybr.club", 443, ssl=True, sni="smash")
+context.log_level = "debug"
+# change sni="whatever" to the challenge you want to connect to
+io = remote("ctf.cybr.club", 443, ssl=True, sni="smash")
 
-> # this is just an example, put your actual exploit here
-> io.interactive()
+# this is just an example, put your actual exploit here
+io.interactive()
 
-> # or, if you want to send stuff
-> io.sendline("haha funny")
-> # let's see if we got a line back
-> print(io.recvline())
+# or, if you want to send stuff
+io.sendline("haha funny")
+# let's see if we got a line back
+print(io.recvline())
+'''
