@@ -7,4 +7,5 @@
 # Walkthrough
 
 The image of Steghide the Stegosaurus includes a comment in its metadata about steganography, hinting towards the next step.
-![stegosaurus](https://user-images.githubusercontent.com/99063625/152630097-906257c4-5896-4e10-b354-625442c14d39.jpg)
+
+<img width="801" alt="Screenshot 2022-02-04 232955" src="https://user-images.githubusercontent.com/99063625/152630106-877b3e9f-b5ce-4923-8e79-6558e5532022.png">
