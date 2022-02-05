@@ -16,3 +16,10 @@ Noticing a pattern, deduce what some other, unlisted options may be.
 
 <img width="602" alt="Screenshot 2022-02-05 011643" src="https://user-images.githubusercontent.com/99063625/152632628-4cd8f82c-8ff3-4e7f-b625-2c24caf5bc6c.png">
 
+*Inspect* the site for ways to submit potential answers that are currenlty unselectable.
+
+<img width="428" alt="Screenshot 2022-02-05 012637" src="https://user-images.githubusercontent.com/99063625/152632876-83582361-a35f-455b-a2f9-fca8496067d6.png">
+
+Submit the secret number for the flag.
+
+<img width="407" alt="Screenshot 2022-02-05 012813" src="https://user-images.githubusercontent.com/99063625/152632947-70ba04fd-06ce-4e46-a9da-0b8a4b9ba8df.png">
