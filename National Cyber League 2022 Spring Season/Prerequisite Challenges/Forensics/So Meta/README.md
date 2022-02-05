@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/99063625/152629604-e0f6cd55-69ef-41e3-9ec9-f87ee000a12a.jpg)
 
 # Walkthrough
-This challenge involves analyzing an image's metadata, which can be done right-clicking the downloaded image on Windows and selecting "Properties."
+This challenge involves analyzing an image's metadata (the image makes mention of "such metadata"), which can be done right-clicking the downloaded image on Windows and selecting "Properties."
 
 <img width="457" alt="Screenshot 2022-02-04 231619" src="https://user-images.githubusercontent.com/99063625/152630187-fe9a37c8-be4c-4941-a865-6afb7284b5cf.png">
 
