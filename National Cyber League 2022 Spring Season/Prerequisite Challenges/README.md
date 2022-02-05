@@ -20,7 +20,7 @@
 
 # NOTE: For the pwn challenges and the oracle crypto challenge, you will need to connect to our server with the following script:
 
-'''
+```
 from pwn import *
 
 context.log_level = "debug"
@@ -34,4 +34,4 @@ io.interactive()
 io.sendline("haha funny")
 # let's see if we got a line back
 print(io.recvline())
-'''
+```
