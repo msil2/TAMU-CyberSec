@@ -18,4 +18,4 @@ After the image is input into the tool, use forensics skills to deduce the passw
 
 ![image](https://user-images.githubusercontent.com/99063625/152630548-222e9a72-3de8-4017-8fe1-436e96e730e1.png)
 
-<img width="180" alt="Screenshot 2022-02-04 235657" src="https://user-images.githubusercontent.com/99063625/152630597-6de8c89d-484c-4b83-8b3a-e54a591eba63.png">
+<img width="480" alt="Screenshot 2022-02-04 235657" src="https://user-images.githubusercontent.com/99063625/152630597-6de8c89d-484c-4b83-8b3a-e54a591eba63.png">
