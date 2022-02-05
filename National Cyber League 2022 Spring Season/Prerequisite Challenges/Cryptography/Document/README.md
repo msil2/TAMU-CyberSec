@@ -10,7 +10,7 @@ Clue in on the challenge prompt's references.
 
 Input the data from the challenge prompt into CyberChef, and notice that there is a part of the text that looks familiar, and of particular note.
 
-<img width="641" alt="Screenshot 2022-02-05 004925" src="https://user-images.githubusercontent.com/99063625/152631956-897b50d0-1819-42e0-9985-8d4dec8f7cf1.png">
+<img width="900" alt="Screenshot 2022-02-05 004925" src="https://user-images.githubusercontent.com/99063625/152631956-897b50d0-1819-42e0-9985-8d4dec8f7cf1.png">
 
 Research methods of cryptography that could output this sort of shift in text.
 
