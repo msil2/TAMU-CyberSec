@@ -1,6 +1,4 @@
-# Announcement
-
-## DIRECTIONS:
+# DIRECTIONS:
 
 1. Register an account at https://ctf.cybr.club/ with your TAMU email (this is important since we'll use this email to send your NCL voucher).
 
@@ -8,7 +6,7 @@
 
 3. If you have questions, ask anyone with the ncl-helper role. While we can't give you the solutions, we can give pointers on what to research, provided you've done your best to solve the challenge already.
 
-## RULES:
+# RULES:
 
 1. Be nice to everyone → this is beginner friendly… keyword in every sense: FRIENDLY
 
