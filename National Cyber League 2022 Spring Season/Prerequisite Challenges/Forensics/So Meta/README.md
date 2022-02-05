@@ -8,8 +8,8 @@
 # Walkthrough
 This challenge involves analyzing an image's metadata, which can be done right-clicking the downloaded image on Windows and selecting "Properties."
 
-<img width="457" alt="Screenshot 2022-02-04 231619" src="https://user-images.githubusercontent.com/99063625/152629920-c5079449-376a-4908-a0e5-edeb30348b14.png">
+<img width="457" alt="Screenshot 2022-02-04 231619" src="https://user-images.githubusercontent.com/99063625/152630187-fe9a37c8-be4c-4941-a865-6afb7284b5cf.png">
 
 Clicking on "Details" in "Properties" reveals the image's "Comments," which contains the challenge's flag.
 
-<img width="339" alt="Screenshot 2022-02-04 231858" src="https://user-images.githubusercontent.com/99063625/152629771-f77941ad-3c6f-4121-b898-c7c039b9663f.png">
+<img width="339" alt="Screenshot 2022-02-04 231858" src="https://user-images.githubusercontent.com/99063625/152630189-3c15df1d-37c5-4793-8e42-9fa31527e887.png">
