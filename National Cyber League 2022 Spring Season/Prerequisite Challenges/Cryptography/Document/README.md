@@ -15,3 +15,7 @@ Input the data from the challenge prompt into CyberChef, and notice that there i
 Research methods of cryptography that could output this sort of shift in text.
 
 ![image](https://user-images.githubusercontent.com/99063625/152631993-7e3ba478-89fd-496b-9045-6316354a0b49.png)
+
+Create a recipe that can decode the ciphertext.
+
+<img width="640" alt="Screenshot 2022-02-05 005819" src="https://user-images.githubusercontent.com/99063625/152632206-08d79332-16d2-4b23-acf7-0f509f6bca1d.png">
