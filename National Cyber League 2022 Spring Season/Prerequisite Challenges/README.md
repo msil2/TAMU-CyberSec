@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/99063625/152633156-1091573f-682f-4060-82bd-e34ae65c7bde.png)
+
 # DIRECTIONS:
 
 1. Register an account at https://ctf.cybr.club/ with your TAMU email (this is important since we'll use this email to send your NCL voucher).
