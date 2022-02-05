@@ -3,8 +3,6 @@
 
 <img width="373" alt="Screenshot 2022-02-04 232321" src="https://user-images.githubusercontent.com/99063625/152629872-730be1b0-c9a1-4c59-8dbe-0eae74d5310d.png">
 
-![image](https://user-images.githubusercontent.com/99063625/152629604-e0f6cd55-69ef-41e3-9ec9-f87ee000a12a.jpg)
-
 # Walkthrough
 This challenge involves analyzing an image's metadata (the image makes mention of "such metadata").
 
