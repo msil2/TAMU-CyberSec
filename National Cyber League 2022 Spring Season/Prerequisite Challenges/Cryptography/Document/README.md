@@ -8,13 +8,13 @@ Clue in on the challenge prompt's references.
 
 ![image](https://user-images.githubusercontent.com/99063625/152631865-c1a25c4e-6c17-4e9f-86a3-f36658b9f5ed.png)
 
-Input the data from the challenge prompt into CyberChef, and notice that there is a part of the text that looks familiar, and of particular note.
+Input the data from the challenge prompt into CyberChef, and notice that there is a part of the ciphertext that looks familiar, and of particular note.
 
 <img width="900" alt="Screenshot 2022-02-05 004925" src="https://user-images.githubusercontent.com/99063625/152631956-897b50d0-1819-42e0-9985-8d4dec8f7cf1.png">
 
 Research methods of cryptography that could output this sort of shift in text.
 
-![image](https://user-images.githubusercontent.com/99063625/152631993-7e3ba478-89fd-496b-9045-6316354a0b49.png)
+![popup_3](https://user-images.githubusercontent.com/99063625/152632262-1c5a3313-9c86-4cfa-8a19-58b362120801.png)
 
 Create a recipe that can decode the ciphertext.
 
