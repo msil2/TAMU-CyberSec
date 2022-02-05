@@ -14,6 +14,6 @@ When the extracted file of unknown type fails to open, consider reformatting the
 
 ![image](https://user-images.githubusercontent.com/99063625/152630990-d6c534a1-bb28-4e18-ae11-3d5b17774f97.png)
 
-Consider employing this method multiple times.
+Consider employing this method multiple times to eventually locate the "flag.txt" file.
 
 ![giphy](https://user-images.githubusercontent.com/99063625/152631140-fed331d7-66b5-4437-8c3e-d16a6fc362c1.gif)
