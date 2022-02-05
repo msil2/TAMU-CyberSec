@@ -8,7 +8,7 @@ If there is any trouble opening the GZ archive file, use forensic skills to find
 
 Extract the GZ file.
 
-[yeet.heck.gz](https://github.com/mrubensilva/TAMU-CyberSec/files/8007492/yeet.heck.gz)
+<img width="451" alt="Screenshot 2022-02-05 001155" src="https://user-images.githubusercontent.com/99063625/152631180-69f46b81-2dbc-4b92-8c80-06ac1fb6f506.png">
 
 When the extracted file of unknown type fails to open, consider reformatting the file.
 
