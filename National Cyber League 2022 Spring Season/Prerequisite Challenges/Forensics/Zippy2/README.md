@@ -1,7 +1,6 @@
 # Zippy2 (100 Points)
 ## I wonder what kind of file this is...
 <img width="372" alt="Screenshot 2022-02-05 000746" src="https://user-images.githubusercontent.com/99063625/152630853-d1e54723-7848-472e-9d0f-11a0eba65b36.png">
-[yeet.heck.gz](https://github.com/mrubensilva/TAMU-CyberSec/files/8007503/yeet.heck.gz)
 
 # Walkthrough
 
