@@ -9,4 +9,4 @@ Visit the provided website (CyberChef) to input the data provided in the challen
 
 Experiment with different operations in order to create the perfect recipe for decoding.
 
-![image](https://user-images.githubusercontent.com/99063625/152632367-74678247-9e52-482f-a19e-29c3f51c76a4.png)
+<img width="638" alt="Screenshot 2022-02-05 010614" src="https://user-images.githubusercontent.com/99063625/152632382-6f0b2f46-aa08-4b1c-885f-e580d6304119.png">
