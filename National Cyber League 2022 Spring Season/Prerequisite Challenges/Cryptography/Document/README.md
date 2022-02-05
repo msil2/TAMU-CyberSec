@@ -18,4 +18,4 @@ Research methods of cryptography that could output this sort of shift in text.
 
 Create a recipe that can decode the ciphertext.
 
-<img width="640" alt="Screenshot 2022-02-05 005819" src="https://user-images.githubusercontent.com/99063625/152632206-08d79332-16d2-4b23-acf7-0f509f6bca1d.png">
+<img width="638" alt="Screenshot 2022-02-05 005819" src="https://user-images.githubusercontent.com/99063625/152632231-92712c97-7344-4337-a6d7-55b41d093cd4.png">
