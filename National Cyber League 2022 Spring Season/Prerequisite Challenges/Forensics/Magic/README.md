@@ -3,7 +3,7 @@
 <img width="371" alt="Screenshot 2022-02-04 235849" src="https://user-images.githubusercontent.com/99063625/152630631-b840776a-00f6-4a7f-9801-a58cb5609698.png">
 
 # Walkthrough
-When the corrupted file fails to open, consider reformatting the file in a way that allows the file to be opened
+When the corrupted file fails to open, consider reformatting the file.
 
 <img width="711" alt="Screenshot 2022-02-05 000036" src="https://user-images.githubusercontent.com/99063625/152630719-78a25ed3-b753-4325-a291-84d2e700bed9.png">
 
