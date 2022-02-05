@@ -13,5 +13,7 @@ Extract the GZ file.
 When the extracted file of unknown type fails to open, consider reformatting the file.
 
 ![image](https://user-images.githubusercontent.com/99063625/152630990-d6c534a1-bb28-4e18-ae11-3d5b17774f97.png)
- 
- ![giphy](https://user-images.githubusercontent.com/99063625/152631140-fed331d7-66b5-4437-8c3e-d16a6fc362c1.gif)
+
+Consider employing this method multiple times.
+
+![giphy](https://user-images.githubusercontent.com/99063625/152631140-fed331d7-66b5-4437-8c3e-d16a6fc362c1.gif)
