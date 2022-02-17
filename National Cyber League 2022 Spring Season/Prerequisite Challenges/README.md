@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/99063625/152633156-1091573f-682f-4060-82bd-e34ae65c7bde.png)
+
+![image](https://user-images.githubusercontent.com/99063625/154577182-0efd7e7c-8b01-407c-ba35-59e51a9dd34b.png)
 
 # DIRECTIONS:
 
