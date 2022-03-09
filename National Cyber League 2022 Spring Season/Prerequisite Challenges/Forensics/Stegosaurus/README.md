@@ -20,10 +20,10 @@ steghide
 stegosaurus
 steganography
 ```
-but only ```stegosaurus``` ended up working.
+but only ```stegosaurus``` ended up extracting any data.
 
 ![image](https://user-images.githubusercontent.com/99063625/157352472-bb40acf5-fdf7-4446-ba50-a89f4e8fb364.png)
 
-Here is what "" 
+![image](https://user-images.githubusercontent.com/99063625/157353371-3622fb6d-a4e5-41f9-932d-a90a2d05b177.png)
 
 <img width="480" alt="Screenshot 2022-02-04 235657" src="https://user-images.githubusercontent.com/99063625/152630597-6de8c89d-484c-4b83-8b3a-e54a591eba63.png">
