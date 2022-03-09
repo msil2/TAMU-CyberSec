@@ -18,4 +18,4 @@ The john tool discovers the password for the zip file is ```aggies08```.
 
 ![image](https://user-images.githubusercontent.com/99063625/157504789-50a9c3c1-f768-496b-80a4-8232f32e0689.png)
 
-### The flag is: ```gigem{us3_b3tt3r_p4ssw0rd5}```.
+### The flag is: ```gigem{us3_b3tt3r_p4ssw0rd5}```
