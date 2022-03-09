@@ -6,7 +6,7 @@
 
 # Walkthrough
 
-The image of Steghide the Stegosaurus includes a comment in its metadata about steganography, hinting towards the next step.
+The image of Steghide the Stegosaurus includes a comment in its metadata about steganography, hinting towards the next step of the challenge.
 
 <img width="801" alt="Screenshot 2022-02-04 232955" src="https://user-images.githubusercontent.com/99063625/152630106-877b3e9f-b5ce-4923-8e79-6558e5532022.png">
 
