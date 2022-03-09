@@ -6,6 +6,8 @@ I made this nice transposition cipher, but I'm really on the *fence* about it.
 
 # Walkthrough
 
-CyberChef.
+The title of the challenge is "Rails," which should encourage you to do a web search for something like "Rails cryptography." You would likely discover the Rail Fence Cipher. Luckily, [CyberChef](https://gchq.github.io/CyberChef/), the Cyber Swiss Army Knife, has a couple of tools for Rail Fence Ciphers. As far as figuring out the Key and the Offset, that may require a bit of trial and error.
 
-<img width="640" alt="Screenshot 2022-02-05 011105" src="https://user-images.githubusercontent.com/99063625/152632531-4074b940-a0c0-4e65-b31f-23aaf9a80cf1.png">
+![image](https://user-images.githubusercontent.com/99063625/157505931-9de7c075-7663-4e4c-a17f-1c1df41b37d6.png)
+
+### The flag is: ```gigem{g00d_luck_3v3ry0n3}```
