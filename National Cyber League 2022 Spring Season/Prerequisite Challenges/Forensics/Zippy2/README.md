@@ -8,11 +8,11 @@ The asset the challenge provides is a GZ file, which can be extracted with eithe
 
 <img width="451" alt="Screenshot 2022-02-05 001155" src="https://user-images.githubusercontent.com/99063625/152631180-69f46b81-2dbc-4b92-8c80-06ac1fb6f506.png">
 
-When the extracted file of unknown type fails to open, consider reformatting the file.
+When the extracted file of unknown type fails to open, (my go-to file formats are .txt or .zip) consider reformatting the file.
 
 ![image](https://user-images.githubusercontent.com/99063625/152630990-d6c534a1-bb28-4e18-ae11-3d5b17774f97.png)
 
-Consider employing this method multiple times to eventually locate the "flag.txt" file.
+You may have to repeat the first few steps a couple of times in order to eventually locate the "flag.txt" file.
 
 ![giphy](https://user-images.githubusercontent.com/99063625/152631140-fed331d7-66b5-4437-8c3e-d16a6fc362c1.gif)
 
