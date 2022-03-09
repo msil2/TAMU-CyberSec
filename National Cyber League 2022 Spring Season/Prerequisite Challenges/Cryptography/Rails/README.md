@@ -6,7 +6,7 @@ I made this nice transposition cipher, but I'm really on the *fence* about it.
 
 # Walkthrough
 
-The title of the challenge is "Rails," which should encourage you to do a web search for something like "Rails cryptography." You would likely discover the Rail Fence Cipher. Luckily, [CyberChef](https://gchq.github.io/CyberChef/), the Cyber Swiss Army Knife, has a couple of tools for Rail Fence Ciphers. As far as figuring out the Key and the Offset, that may require a bit of trial and error.
+The title of the challenge is "Rails," and its prompt seems to highlight the word "fence" by italicizing the word. This should encourage you to do a web search for something like "Rails fence cryptography." With that, you would likely discover the Rail Fence Cipher. Luckily, [CyberChef](https://gchq.github.io/CyberChef/), the Cyber Swiss Army Knife, has a couple of tools for Rail Fence Ciphers. As far as figuring out the Key and the Offset, that may require a bit of trial and error.
 
 ![image](https://user-images.githubusercontent.com/99063625/157505931-9de7c075-7663-4e4c-a17f-1c1df41b37d6.png)
 
