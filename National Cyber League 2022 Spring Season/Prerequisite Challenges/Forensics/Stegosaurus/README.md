@@ -10,7 +10,7 @@ The image of Steghide the Stegosaurus includes a comment in its metadata about s
 
 <img width="801" alt="Screenshot 2022-02-04 232955" src="https://user-images.githubusercontent.com/99063625/152630106-877b3e9f-b5ce-4923-8e79-6558e5532022.png">
 
-Using forensics skills, e.g., educated guesses, find a password and a [steganography tool](https://aperisolve.fr/) that can reveal a message hidden in the image. 
+Using forensics skills, e.g., educated guesses, find a password and a [steganography tool](https://aperisolve.fr/) that can reveal a message hidden in the image. Images run through a steganography tool often need a password in order to be cracked. 
 
 ![image](https://user-images.githubusercontent.com/99063625/157351700-d1bd8dc8-983d-41a1-8d74-b85676c2194d.png)
 
@@ -20,7 +20,10 @@ steghide
 stegosaurus
 steganography
 ```
+but only ```stegosaurus``` ended up working.
 
 ![image](https://user-images.githubusercontent.com/99063625/157352472-bb40acf5-fdf7-4446-ba50-a89f4e8fb364.png)
+
+Here is what "" 
 
 <img width="480" alt="Screenshot 2022-02-04 235657" src="https://user-images.githubusercontent.com/99063625/152630597-6de8c89d-484c-4b83-8b3a-e54a591eba63.png">
