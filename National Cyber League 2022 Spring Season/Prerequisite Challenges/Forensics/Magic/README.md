@@ -9,4 +9,4 @@ When the corrupted file fails to open, consider reformatting the file.
 
 ![image](https://user-images.githubusercontent.com/99063625/157355587-1d7d52d3-755c-4530-af61-f6a957142023.png)
 
-### The flag is: gigem{m4g1c_byt35_g0_brrr}
+### The flag is: ```gigem{m4g1c_byt35_g0_brrr}```
