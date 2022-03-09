@@ -12,4 +12,4 @@ The flag is found in the "Comments" section of the image's metadata (In Windows,
 
 ![image](https://user-images.githubusercontent.com/99063625/157351090-43581b55-3dc8-4c76-a2c3-81bc2b7322ee.png)
 
-### The flag is: gigem{eX1fto01_g03S_brrr}
+### The flag is: ```gigem{eX1fto01_g03S_brrr}```
