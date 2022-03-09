@@ -5,10 +5,12 @@ I found some mysterious text. Can you find out what it means? Note: for these ch
 
 <img width="371" alt="Screenshot 2022-02-05 003135" src="https://user-images.githubusercontent.com/99063625/152631455-6dba1dc9-8c8e-442d-ac75-15c2b405244e.png">
 
-Visit the provided website (CyberChef) to input the data provided in the challenge prompt.
+Visit the provided website, [CyberChef](https://gchq.github.io/CyberChef/), to take a crack at decrypting the ciphertext. You may already know that this ciphertext is a bunch of Binary numbers, so you should probably get started with the From Binary tool CyberChef.
 
-<img width="1278" alt="Screenshot 2022-02-05 003633" src="https://user-images.githubusercontent.com/99063625/152631588-6219fcd7-5b94-45e0-8cf9-a58de89c879a.png">
+![image](https://user-images.githubusercontent.com/99063625/157507060-ee7a60a4-670a-4a3b-a3f7-c0eac20e208a.png)
 
-Experiment with different operations in order to create the perfect recipe for decoding.
+This output looks a lot like Base64. However, if you ever unsure, you can always hover over a given Operation in CyberChef to reveal some documentation and examples.
 
-<img width="638" alt="Screenshot 2022-02-05 010614" src="https://user-images.githubusercontent.com/99063625/152632382-6f0b2f46-aa08-4b1c-885f-e580d6304119.png">
+![image](https://user-images.githubusercontent.com/99063625/157507259-4f46a499-dd29-443d-ba5d-58126d65d1e1.png)
+
+After dragging 
