@@ -3,4 +3,6 @@
 <img width="372" src="https://user-images.githubusercontent.com/99063625/157494438-c7bbff80-b706-402d-9219-85d103f9c874.png">
 
 # Walkthrough
-A good way to access a password-protected zip file is by cracking the password.
+
+A good way to access a password-protected zip file is by cracking the password. [My Kali virtual machine image](https://www.kali.org/get-kali/#kali-virtual-machines) comes pre-installed with a suite of tools for Password Attacks, as well as a decent collection of wordlists.
+
