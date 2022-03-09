@@ -11,11 +11,11 @@ The image of Steghide the Stegosaurus includes a comment in its metadata about s
 <img width="801" alt="Screenshot 2022-02-04 232955" src="https://user-images.githubusercontent.com/99063625/152630106-877b3e9f-b5ce-4923-8e79-6558e5532022.png">
 
 Using forensics skills, e.g., educated guesses, find a password and a [steganography tool](https://aperisolve.fr/) that can reveal a message hidden in the image. My go-to guesses were: 
-...
+```
 steghide
 stegosaurus
 steganography
-...
+```
 
 ![image](https://user-images.githubusercontent.com/99063625/157351700-d1bd8dc8-983d-41a1-8d74-b85676c2194d.png)
 
