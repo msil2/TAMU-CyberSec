@@ -6,4 +6,10 @@
 # Walkthrough
 One of the phrases in the challenge's provided image reads "such metadata," hinting towards the next step in the challenge. Assuming you are running a major operating system, the you can get a great start on a metadata challenge by simply right-clicking on your image and exploring its properties.  
 
-<img width="339" alt="Screenshot 2022-02-04 231858" src="https://user-images.githubusercontent.com/99063625/152630189-3c15df1d-37c5-4793-8e42-9fa31527e887.png">
+![image](https://user-images.githubusercontent.com/99063625/157350935-4e624fcf-01cb-4c0b-8ac8-676335bcda1b.png)
+
+The flag is found in the "Comments" section of the image's metadata (In Windows, you can click on "Properties," then "Details").
+
+![image](https://user-images.githubusercontent.com/99063625/157351090-43581b55-3dc8-4c76-a2c3-81bc2b7322ee.png)
+
+The flag is: gigem{eX1fto01_g03S_brrr}
