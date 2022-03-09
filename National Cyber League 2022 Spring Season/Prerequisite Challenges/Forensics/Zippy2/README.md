@@ -4,9 +4,7 @@
 
 # Walkthrough
 
-If there is any trouble opening the GZ archive file, use forensic skills to find a program capable of decompressing the file.
-
-Extract the GZ file.
+The asset the challenge provides is a GZ file, which can be extracted with either 7zip or gzip. 
 
 <img width="451" alt="Screenshot 2022-02-05 001155" src="https://user-images.githubusercontent.com/99063625/152631180-69f46b81-2dbc-4b92-8c80-06ac1fb6f506.png">
 
