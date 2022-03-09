@@ -16,7 +16,7 @@ You may have to repeat the first few steps a couple of times in order to eventua
 
 ![giphy](https://user-images.githubusercontent.com/99063625/152631140-fed331d7-66b5-4437-8c3e-d16a6fc362c1.gif)
 
-Upon discovering that looks can be deceiving, use forensic skills to figure out how to reformat the seemingly corrupted file.
+If a file looks weird or corrupted in a CTF competition, that usually means you have to dig deepter. Try reformatting the file again.
 
 <img width="868" alt="Screenshot 2022-02-05 002507" src="https://user-images.githubusercontent.com/99063625/152631274-275e7241-b074-4a52-b6bc-7d8f3e6ac98f.png">
 
