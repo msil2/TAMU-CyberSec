@@ -22,4 +22,4 @@ If a file looks weird or corrupted in a CTF competition, that usually means you 
 
 ![flag](https://user-images.githubusercontent.com/99063625/157355340-0cd3c930-b4d0-47e1-92c8-be0933c5b149.png)
 
-### The flag is: gigem{y3et_p0g}
+### The flag is: ```gigem{y3et_p0g}```
