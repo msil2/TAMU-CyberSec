@@ -24,4 +24,4 @@ but only ```stegosaurus``` ended up extracting any data.
 
 ![image](https://user-images.githubusercontent.com/99063625/157353371-3622fb6d-a4e5-41f9-932d-a90a2d05b177.png)
 
-<img width="480" alt="Screenshot 2022-02-04 235657" src="https://user-images.githubusercontent.com/99063625/152630597-6de8c89d-484c-4b83-8b3a-e54a591eba63.png">
+### The flag is: gigem{C4N_YU0_S33_TH3_ST3GG0}
