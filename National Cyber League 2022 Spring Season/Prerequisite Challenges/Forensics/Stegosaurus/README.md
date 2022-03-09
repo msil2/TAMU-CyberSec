@@ -12,6 +12,6 @@ The image of Steghide the Stegosaurus includes a comment in its metadata about s
 
 Using forensics skills, e.g., educated guesses, find a password and a [steganography tool](https://aperisolve.fr/) that can reveal a message hidden in the image.
 
-![image](https://user-images.githubusercontent.com/99063625/154821610-65c20c6a-faf6-4303-a812-ef041e6e664e.png)
+![image](https://user-images.githubusercontent.com/99063625/157351700-d1bd8dc8-983d-41a1-8d74-b85676c2194d.png)
 
 <img width="480" alt="Screenshot 2022-02-04 235657" src="https://user-images.githubusercontent.com/99063625/152630597-6de8c89d-484c-4b83-8b3a-e54a591eba63.png">
