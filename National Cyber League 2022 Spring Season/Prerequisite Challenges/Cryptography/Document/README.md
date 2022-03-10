@@ -16,10 +16,12 @@ Keeping that in mind, you can take a look at the ciphertext. You may notice that
 
 <img width="900" alt="Screenshot 2022-02-05 004925" src="https://user-images.githubusercontent.com/99063625/152631956-897b50d0-1819-42e0-9985-8d4dec8f7cf1.png">
 
-*However*, after looking really closely, you might notice that this ciphertext actually doesn't resemble the Declaration of Independence all that much, and not just because it's encoded a whole bunch. Still, let's not drop this lead altogether. Personally, I think this particular order of characters looks a lot like *another* important historical document from US history: the United States Constitution, specifically, [The Preamble](https://constitutioncenter.org/interactive-constitution/preamble).
+*However*, after looking really closely, you might notice that this ciphertext actually doesn't resemble the Declaration of Independence all that much, even after considering it's a scrambled mess. Still, let's not drop this lead altogether. Personally, I think this particular order of characters looks a lot like *another* important historical document from US history: the United States Constitution, specifically, [The Preamble](https://constitutioncenter.org/interactive-constitution/preamble).
 
 <img width="900" alt="Screenshot 2022-03-09 205601" src="https://user-images.githubusercontent.com/99063625/157580189-da2fb445-71ca-45e5-90c6-e969d403ec11.png">
 
-With a better lead on the known plaintext, or "crib," 
+With a better lead on the known plaintext, or "crib," we can narrow down our search to shift ciphers that employ a *key*. One such cipher is the Vigenère cipher. Thankfully, [CyberChef](https://gchq.github.io/CyberChef/) has just the tool for the job: the *Vigenère Decode* tool! Keep in mind, though, that since this is a cipher, it works by character, so spaces, commas, periods, etc. are not valid pieces of a key. [Using the replace feature in Notepad++](https://stackoverflow.com/a/55470946), you can shorten The Preamble to its letters alone, a perfect key!
+
+![image](https://user-images.githubusercontent.com/99063625/157729190-a9388255-c2a2-4838-a16a-d32f729cd796.png)
 
 
