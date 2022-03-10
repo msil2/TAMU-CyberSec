@@ -1,8 +1,6 @@
 # Secret Number (100 Points)
 
-Can you find the secret number?
-
-http://ctf.cybr.club/secretnumber/.
+## Can you find the secret number? http://ctf.cybr.club/secretnumber/.
 
 <img width="372" alt="Screenshot 2022-02-05 011455" src="https://user-images.githubusercontent.com/99063625/152632596-cbe28853-5b55-4e3b-bd05-f2c4e94f0159.png">
 
