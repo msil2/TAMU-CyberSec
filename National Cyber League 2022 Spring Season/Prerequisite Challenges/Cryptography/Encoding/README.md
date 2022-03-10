@@ -5,6 +5,8 @@
 
 <img width="371" alt="Screenshot 2022-02-05 003135" src="https://user-images.githubusercontent.com/99063625/152631455-6dba1dc9-8c8e-442d-ac75-15c2b405244e.png">
 
+# Walkthrough
+
 Visit the provided website, [CyberChef](https://gchq.github.io/CyberChef/), to take a crack at decrypting the ciphertext. You may already know that this ciphertext is a bunch of binary numbers, so you should probably get started with the *From Binary* tool CyberChef.
 
 ![image](https://user-images.githubusercontent.com/99063625/157507060-ee7a60a4-670a-4a3b-a3f7-c0eac20e208a.png)
