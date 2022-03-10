@@ -12,7 +12,7 @@ The challenge prompt references the greatest movie of all time, [National Treasu
 
 ![image](https://user-images.githubusercontent.com/99063625/152631865-c1a25c4e-6c17-4e9f-86a3-f36658b9f5ed.png)
 
-Keeping that in mind, you can take a look at the ciphertext. You may notice that there is a part of the ciphertext that looks familiar and noteworthy.
+Keeping that in mind, you can take a look at the ciphertext. You may notice that there is a part of the ciphertext that looks like it contains the flag, e.g, curly braces.
 
 <img width="900" alt="Screenshot 2022-02-05 004925" src="https://user-images.githubusercontent.com/99063625/152631956-897b50d0-1819-42e0-9985-8d4dec8f7cf1.png">
 
