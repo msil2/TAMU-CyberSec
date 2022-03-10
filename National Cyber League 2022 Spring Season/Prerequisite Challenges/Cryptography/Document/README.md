@@ -20,8 +20,9 @@ Keeping that in mind, you can take a look at the ciphertext. You may notice that
 
 <img width="900" alt="Screenshot 2022-03-09 205601" src="https://user-images.githubusercontent.com/99063625/157580189-da2fb445-71ca-45e5-90c6-e969d403ec11.png">
 
-With a better lead on the known plaintext, or "crib," we can narrow down our search to shift ciphers that employ a *key*. One such cipher is the [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher). Thankfully, [CyberChef](https://gchq.github.io/CyberChef/) has just the tool for the job: the *Vigenère Decode* tool! Keep in mind, though, that since this is a cipher, it works by character, so spaces, commas, periods, etc. are not valid pieces of a key. [Using the *Replace* feature in Notepad++](https://stackoverflow.com/a/55470946), you can shorten The Preamble to its letters alone, a perfect key!
+It looks like every word has the right amount of letters, just not the correct letters, which tells us that we're probably working with a shift cipher. Additionally, we found ourselves a crib (a piece known plaintext), so we now have a better idea of what the cleartext (the unciphered text) is supposed to look like. One shift cipher that employes a crib is the [Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher). As luck would have it, [CyberChef](https://gchq.github.io/CyberChef/) has a *Vigenère Decode* tool!
 
-![image](https://user-images.githubusercontent.com/99063625/157729190-a9388255-c2a2-4838-a16a-d32f729cd796.png)
+![image](https://user-images.githubusercontent.com/99063625/157744937-f735dae9-7f46-4965-b536-3bcad08304b7.png)
 
-This looks a lot more like the Declaration (if you're caveman, anyway)! This repetition of a single word, "Declaration," is characterisitic of the  
+It turns out that this kind of cipher requires a key to decode it. At this point, our two clues are the Declaration of Independence and the Preamble to the United States Constitution. Since we are already using the Preamble as our crib, we might want to try using the Declaration.
+
