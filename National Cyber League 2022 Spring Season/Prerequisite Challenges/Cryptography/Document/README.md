@@ -20,6 +20,6 @@ Keeping that in mind, you can take a look at the ciphertext. You may notice that
 
 <img width="900" alt="Screenshot 2022-03-09 205601" src="https://user-images.githubusercontent.com/99063625/157580189-da2fb445-71ca-45e5-90c6-e969d403ec11.png">
 
-With a better lead on the known plaintext, or "crib," we can so a bit of *Magic*.
+With a better lead on the known plaintext, or "crib," 
 
 
