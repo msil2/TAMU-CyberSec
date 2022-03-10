@@ -16,4 +16,6 @@ Keeping that in mind, you can take a look at the ciphertext. You may notice that
 
 <img width="900" alt="Screenshot 2022-02-05 004925" src="https://user-images.githubusercontent.com/99063625/152631956-897b50d0-1819-42e0-9985-8d4dec8f7cf1.png">
 
-*However*, after looking really closely, you might notice that this ciphertext actually doesn't resemble the Declaration of Independence all that much, and not just because it's encoded a whole bunch. 
+*However*, after looking really closely, you might notice that this ciphertext actually doesn't resemble the Declaration of Independence all that much, and not just because it's encoded a whole bunch. Still, let's not drop this lead altogether. Personally, I think this particular order of characters looks a lot like *another* important historical document from US history.
+
+<img width="640" alt="Screenshot 2022-03-09 205601" src="https://user-images.githubusercontent.com/99063625/157580189-da2fb445-71ca-45e5-90c6-e969d403ec11.png">
