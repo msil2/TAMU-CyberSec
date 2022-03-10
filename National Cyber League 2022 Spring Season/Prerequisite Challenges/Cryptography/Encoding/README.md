@@ -5,7 +5,7 @@ I found some mysterious text. Can you find out what it means? Note: for these ch
 
 <img width="371" alt="Screenshot 2022-02-05 003135" src="https://user-images.githubusercontent.com/99063625/152631455-6dba1dc9-8c8e-442d-ac75-15c2b405244e.png">
 
-Visit the provided website, [CyberChef](https://gchq.github.io/CyberChef/), to take a crack at decrypting the ciphertext. You may already know that this ciphertext is a bunch of Binary numbers, so you should probably get started with the From Binary tool CyberChef.
+Visit the provided website, [CyberChef](https://gchq.github.io/CyberChef/), to take a crack at decrypting the ciphertext. You may already know that this ciphertext is a bunch of binary numbers, so you should probably get started with the *From Binary* tool CyberChef.
 
 ![image](https://user-images.githubusercontent.com/99063625/157507060-ee7a60a4-670a-4a3b-a3f7-c0eac20e208a.png)
 
@@ -13,4 +13,4 @@ This output looks a lot like Base64. However, if you ever unsure, you can always
 
 ![image](https://user-images.githubusercontent.com/99063625/157507259-4f46a499-dd29-443d-ba5d-58126d65d1e1.png)
 
-After dragging 
+An additional *Operation* dragged into the *Recipe* area will get chained together with the preceding *Recipe* items, so dragging the *From Base64* tool into the *Recipe* area converts the output from the previous *Operation*, and not the initial binary *Input*. 
