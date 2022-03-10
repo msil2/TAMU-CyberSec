@@ -8,7 +8,7 @@
 
 # Walkthrough
 
-Clue in on the challenge prompt's references.
+The challenge prompt references the greatest movie of all time, [National Treasure](https://en.wikipedia.org/wiki/National_Treasure_(film)).
 
 ![image](https://user-images.githubusercontent.com/99063625/152631865-c1a25c4e-6c17-4e9f-86a3-f36658b9f5ed.png)
 
