@@ -6,7 +6,7 @@
 
 # Walkthrough
 
-Explore the site, and see if the secret number is availble in the site's currently rendered state.
+For this web exploitation challenge, we get a page Explore the site, and see if the secret number is availble in the site's currently rendered state.
 
 ![image](https://user-images.githubusercontent.com/99063625/152632729-edfac359-99f6-40ee-b838-9a93dd68b468.png)
 
