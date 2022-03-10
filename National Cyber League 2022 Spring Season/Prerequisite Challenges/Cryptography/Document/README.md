@@ -16,10 +16,4 @@ Keeping that in mind, you can take a look at the ciphertext. You may notice that
 
 <img width="900" alt="Screenshot 2022-02-05 004925" src="https://user-images.githubusercontent.com/99063625/152631956-897b50d0-1819-42e0-9985-8d4dec8f7cf1.png">
 
-After researching methods of cryptography that involve shifting around the characters in your ciphertext, I discovered .
-
-![popup_3](https://user-images.githubusercontent.com/99063625/152632262-1c5a3313-9c86-4cfa-8a19-58b362120801.png)
-
-Create a recipe that can decode the ciphertext.
-
-<img width="638" alt="Screenshot 2022-02-05 005819" src="https://user-images.githubusercontent.com/99063625/152632231-92712c97-7344-4337-a6d7-55b41d093cd4.png">
+*However*, after looking really closely, you might notice that this ciphertext actually doesn't resemble the Declaration of Independence all that much, and not just because it's encoded a whole bunch. 
