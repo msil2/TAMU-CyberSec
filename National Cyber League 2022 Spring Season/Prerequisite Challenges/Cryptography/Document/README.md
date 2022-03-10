@@ -24,4 +24,4 @@ With a better lead on the known plaintext, or "crib," we can narrow down our sea
 
 ![image](https://user-images.githubusercontent.com/99063625/157729190-a9388255-c2a2-4838-a16a-d32f729cd796.png)
 
-
+Now it's starting to look like the Declaration (if it was written by a caveman)!
