@@ -24,5 +24,8 @@ It looks like every word has the right amount of letters, just not the correct l
 
 ![image](https://user-images.githubusercontent.com/99063625/157744937-f735dae9-7f46-4965-b536-3bcad08304b7.png)
 
-It turns out that this kind of cipher requires a key to decode it. At this point, our two clues are the Declaration of Independence and the Preamble to the United States Constitution. Since we are already using the Preamble as our crib, we might want to try using the Declaration.
+It turns out that this kind of cipher requires a key to decode it. At this point, our two clues are the Declaration of Independence and the Preamble to the United States Constitution. Since we are already using the Preamble as our crib, we might want to try using the Declaration as our key.
 
+![image](https://user-images.githubusercontent.com/99063625/157757811-f5c8d6f1-e5fd-46b2-adea-65a719bcc227.png)
+
+### The flag is: ```gigem{C0nst1tut10n_0f_th3_Un1t3d_St4t3s}```
