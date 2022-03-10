@@ -12,11 +12,11 @@ The challenge prompt references the greatest movie of all time, [National Treasu
 
 ![image](https://user-images.githubusercontent.com/99063625/152631865-c1a25c4e-6c17-4e9f-86a3-f36658b9f5ed.png)
 
-Keeping that in mind, you can take a look at the ciphertext. You may notice that there is a part of the ciphertext that looks like it contains the flag, e.g, curly braces.
+Keeping that in mind, you can take a look at the ciphertext. You may notice that there is a part of the ciphertext that looks like it contains the flag, e.g, curly braces. Except, the characters are shifted around a whole bunch.
 
 <img width="900" alt="Screenshot 2022-02-05 004925" src="https://user-images.githubusercontent.com/99063625/152631956-897b50d0-1819-42e0-9985-8d4dec8f7cf1.png">
 
-Research methods of cryptography that could output this sort of shift in text.
+After researching methods of cryptography that involve shifting around the characters in your ciphertext, I discovered .
 
 ![popup_3](https://user-images.githubusercontent.com/99063625/152632262-1c5a3313-9c86-4cfa-8a19-58b362120801.png)
 
