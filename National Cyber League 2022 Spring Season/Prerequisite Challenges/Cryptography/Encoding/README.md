@@ -14,3 +14,11 @@ This output looks a lot like Base64. However, if you ever unsure, you can always
 ![image](https://user-images.githubusercontent.com/99063625/157507259-4f46a499-dd29-443d-ba5d-58126d65d1e1.png)
 
 An additional *Operation* dragged into the *Recipe* area will get chained together with the preceding *Recipe* items, so dragging the *From Base64* tool into the *Recipe* area converts the output from the previous *Operation*, and not the initial binary *Input*. 
+
+![image](https://user-images.githubusercontent.com/99063625/157575984-be12a0d8-a499-46a7-adc7-e4eec26cf28b.png)
+
+Decoding *From Base64* gives us an output that looks like a hexadecimal byte string, so it makes sense to try to decode *From Hex*.
+
+![image](https://user-images.githubusercontent.com/99063625/157576260-cf30deda-ceb7-4e58-ace7-9c26e89196f8.png)
+
+### The flag is: ```gigem{3nc0d1ng_15_n0t_3ncrypt10n}``` 
