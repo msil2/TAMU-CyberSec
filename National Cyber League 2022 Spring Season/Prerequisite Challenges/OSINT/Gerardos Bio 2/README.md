@@ -5,6 +5,6 @@
 
 ## Example: Aquarius 8°00'44" is gigem{aquarius_8_00_44}
 
-![image](https://user-images.githubusercontent.com/99063625/158137190-bd46f69e-4a15-4e06-900d-3a18be95cb89.png)
+<img width="372" src=https://user-images.githubusercontent.com/99063625/158137190-bd46f69e-4a15-4e06-900d-3a18be95cb89.png>
 
 # Walkthrough
