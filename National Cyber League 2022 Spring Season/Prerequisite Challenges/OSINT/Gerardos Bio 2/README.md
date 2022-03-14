@@ -18,3 +18,13 @@ In fact, we need to comb through Gerardo's Twitter (linked in the challenge prom
 ![image](https://user-images.githubusercontent.com/99063625/158139359-054a07ba-ffaf-49e4-a907-51e3279fd448.png)
 
 Gerardo was born at 8:00am.
+
+To find the last piece of the puzzle, Gerardo's birth city, we look to [one other tweet](https://twitter.com/gerardo_2001_/status/1481405190267981831?s=20&t=DTlIkvduuX6ic-NFX0V_BA), in which Gerardo muses about his home.
+
+![image](https://user-images.githubusercontent.com/99063625/158140560-737a41db-6648-4086-8070-d1a5eb924eb2.png)
+
+If the city pictured in this tweet is Gerardo's birth city, then we are all set, because we can easily use this image to conduct a [Reverse Image Search](https://support.google.com/websearch/answer/1325808?hl=en&co=GENIE.Platform%3DDesktop) (Powered by Google).
+
+![image](https://user-images.githubusercontent.com/99063625/158141367-069bce2c-587e-499e-8cf0-732907b1bf83.png)
+
+We figure out that Gerardo hails from San Antonio, Texas, United States.
