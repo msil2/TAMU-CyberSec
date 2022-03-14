@@ -16,7 +16,11 @@ Though, you probably already guessed that this does not work. *However*, take no
 
 One thing I noticed after digging deeper is that the numbers listed in the dropdown menu follow a pattern: N1 + 2 = N2 (1 + 2 = 3), N2 + 3 = N3 (3 + 3 = 6), N3 + 4 = N4 (6 + 4 = 10), etc. Following this pattern, we discover that the secret number is 55, a number that is not on the dropdown list.
 
-But, if we *Inspect* the site .
+But, if we *Inspect* the site's code, we can search for and modify the code for the dropdown list.
+
+![image](https://user-images.githubusercontent.com/99063625/158109565-36e57da2-a8d9-4015-a372-012aa4a73066.png)
+
+Digging deeper into the <select> element, "numbers," we find that there is an individual line of code for each option on the dropdown list. We can edit the integers in each of these lines, with the changes reflected in real time. This means that we can change one of the options in the list to be the number 55.
 
 <img width="428" alt="Screenshot 2022-02-05 012637" src="https://user-images.githubusercontent.com/99063625/152632876-83582361-a35f-455b-a2f9-fca8496067d6.png">
 
