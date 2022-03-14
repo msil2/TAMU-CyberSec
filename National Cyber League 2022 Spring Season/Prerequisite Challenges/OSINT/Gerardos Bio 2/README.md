@@ -13,3 +13,8 @@
 
 <img width="600" src=https://user-images.githubusercontent.com/99063625/158138505-18ca4d32-5381-44c9-94e9-0dd5cefc8f2c.png>
 
+In fact, we need to comb through Gerardo's Twitter (linked in the challenge prompt) for leads on his time of birth and his birth city. We can find Gerardo's time of birth pretty easily, as [one tweet](https://twitter.com/gerardo_2001_/status/1477823900591529984?s=20&t=DTlIkvduuX6ic-NFX0V_BA) spells it out for us.
+
+![image](https://user-images.githubusercontent.com/99063625/158139359-054a07ba-ffaf-49e4-a907-51e3279fd448.png)
+
+Gerardo was born at 8:00am.
