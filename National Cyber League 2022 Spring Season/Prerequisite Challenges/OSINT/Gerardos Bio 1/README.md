@@ -11,10 +11,10 @@ The objective of this challenge is to find out Gerardo's birthday. His Twitter p
 
 ![image](https://user-images.githubusercontent.com/99063625/158135856-92650b02-71a6-4491-8641-8dda333e96ad.png)
 
-Our first major clue to Gerardo's birthday is in his username(s). People commonly include their birth year in their username, so it's not too far-fetched of an assumption that "2001" might be the year of Gerardo's birthday. As for the month and date, we need to dig a bit deeper, perhaps by scrolling through some of Gerardo's tweets.
+Our first major clue to Gerardo's birthday is in his username(s). People commonly include their birth year in their username, so it's not too far-fetched of an assumption that "2001" might be the year of Gerardo's birthday. As for the month and date, we need to dig a bit deeper, perhaps by combing through Gerardo's tweets.
 
 ![image](https://user-images.githubusercontent.com/99063625/158136510-ade70414-5487-4e0a-9348-b31c899ad225.png)
 
-Sure enough, some Twitter stalking reveals that Gerardo celebrates his birthday on December 23rd. Gerardo's birthday is 12/23/2001
+Sure enough, [one tweet](https://twitter.com/gerardo_2001_/status/1474055931138871306?s=20&t=DTlIkvduuX6ic-NFX0V_BA) reveals that Gerardo celebrates his birthday on December 23rd. Gerardo's birthday is 12/23/2001
 
 ### The flag is ```gigem{12/23/2001}```.
