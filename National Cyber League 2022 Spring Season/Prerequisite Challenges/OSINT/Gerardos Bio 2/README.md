@@ -27,4 +27,14 @@ If the city pictured in this tweet is Gerardo's birth city, then we are all set,
 
 ![image](https://user-images.githubusercontent.com/99063625/158141367-069bce2c-587e-499e-8cf0-732907b1bf83.png)
 
-We figure out that Gerardo hails from San Antonio, Texas, United States.
+We figure out that Gerardo hails from San Antonio, Texas, United States. 
+
+![image](https://user-images.githubusercontent.com/99063625/158142136-b6283aa2-2437-4d80-9521-6149ba608f17.png)
+
+Now, we have all the information to determine Gerardo's Mars sign.
+
+![image](https://user-images.githubusercontent.com/99063625/158142439-8133270f-8849-4bde-a66d-59688f3b6c4a.png)
+
+This site suggest that, based on our data, Gerardo's Mars sign is Pisces 10°43'10".
+
+### The flag is ```gigem{pisces_10_43_10}```.
