@@ -8,3 +8,8 @@
 <img width="372" src=https://user-images.githubusercontent.com/99063625/158137190-bd46f69e-4a15-4e06-900d-3a18be95cb89.png>
 
 # Walkthrough
+
+[A previous challenge](https://github.com/mrubensilva/TAMU-CyberSec/tree/main/National%20Cyber%20League%202022%20Spring%20Season/Prerequisite%20Challenges/OSINT/Gerardos%20Bio%201#the-flag-is-gigem12232001) revealed that Gerardo's birthday was December 23rd, 2001. Unfortunately, if you want to figure out somebody's [Mars sign](https://cafeastrology.com/whats-my-mars-sign.html), you need more than just their birthday. 
+
+![image](https://user-images.githubusercontent.com/99063625/158138505-18ca4d32-5381-44c9-94e9-0dd5cefc8f2c.png)
+
