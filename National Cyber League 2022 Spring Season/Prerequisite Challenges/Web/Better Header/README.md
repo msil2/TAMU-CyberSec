@@ -1,7 +1,7 @@
 # Better Header (100 Points)
 ## Can you find the flag by visiting this webpage http://ctf.cybr.club/betterheader/?
 
-![image](https://user-images.githubusercontent.com/99063625/158115052-04516aa6-3efc-40e6-ad78-b58d535ae574.png)
+<img width="372" src=(https://user-images.githubusercontent.com/99063625/158115052-04516aa6-3efc-40e6-ad78-b58d535ae574.png)>
 
 # Walkthrough
 
