@@ -14,9 +14,9 @@ Though, you probably already guessed that this does not work. *However*, take no
 
 <img width="602" alt="Screenshot 2022-02-05 011643" src="https://user-images.githubusercontent.com/99063625/152632628-4cd8f82c-8ff3-4e7f-b625-2c24caf5bc6c.png">
 
-One thing I noticed after digging deeper is that the numbers listed in the dropdown menu follow a pattern: N1 + 2 = N2 (1 + 2 = 3), N2 + 3 = N3 (3 + 3 = 6), N3 + 4 = N4 (6 + 4 = 10), etc. Maybe following this pattern will lead us to the secret number? Maybe, but that doesn't matter until we can figure out how to submit any number we'd like to!
+One thing I noticed after digging deeper is that the numbers listed in the dropdown menu follow a pattern: N1 + 2 = N2 (1 + 2 = 3), N2 + 3 = N3 (3 + 3 = 6), N3 + 4 = N4 (6 + 4 = 10), etc. Following this pattern, we discover that the secret number is 55, a number that is not on the dropdown list.
 
-*Inspect* the site for ways to submit potential answers that are currenlty unselectable.
+But, if we *Inspect* the site .
 
 <img width="428" alt="Screenshot 2022-02-05 012637" src="https://user-images.githubusercontent.com/99063625/152632876-83582361-a35f-455b-a2f9-fca8496067d6.png">
 
