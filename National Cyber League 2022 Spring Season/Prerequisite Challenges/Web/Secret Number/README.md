@@ -22,9 +22,9 @@ But, if we *Inspect* the site's code, we can search for and modify the code for 
 
 Digging deeper into the *select* element, "numbers," we find that there is an individual line of code for each option on the dropdown list. We can edit the integers in each of these lines, with the changes reflected in real time. This means that we can change one of the options in the list to be the number 55.
 
-<img width="428" alt="Screenshot 2022-02-05 012637" src="https://user-images.githubusercontent.com/99063625/152632876-83582361-a35f-455b-a2f9-fca8496067d6.png">
+![image](https://user-images.githubusercontent.com/99063625/158110383-4f2de6e7-0aa4-4a00-a18c-353b491d312c.png)
 
-Submit the secret number for the flag.
+Clicking the *Submit* button will now send the secret number, 55, in the form, and give you the flag.
 
 ![image](https://user-images.githubusercontent.com/99063625/157760816-d635e39e-2249-449a-831b-68c99a19cb48.png)
 
