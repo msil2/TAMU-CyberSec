@@ -15,6 +15,8 @@ Our first major clue to Gerardo's birthday is in his username(s). People commonl
 
 ![image](https://user-images.githubusercontent.com/99063625/158136510-ade70414-5487-4e0a-9348-b31c899ad225.png)
 
-Sure enough, [one tweet](https://twitter.com/gerardo_2001_/status/1474055931138871306?s=20&t=DTlIkvduuX6ic-NFX0V_BA) reveals that Gerardo celebrates his birthday on December 23rd. Gerardo's birthday is 12/23/2001
+Sure enough, [one tweet](https://twitter.com/gerardo_2001_/status/1474055931138871306?s=20&t=DTlIkvduuX6ic-NFX0V_BA) reveals that Gerardo celebrates his birthday on December 23rd. 
+
+Gerardo's birthday is 12/23/2001
 
 ### The flag is ```gigem{12/23/2001}```.
