@@ -5,11 +5,8 @@
 
 # Walkthrough
 
-The title of the challenge seems to clue us in on the scope of the challenge: web headers. This means that a good place to start looking is our browser's [*Network Monitor*](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor) (I use Firefox, so I have linked to Mozilla's documentation).
-
-![image](https://user-images.githubusercontent.com/99063625/158116005-3b4e5615-9a38-4734-a184-75eada83536c.png)
-
-By examing HTTP requests in our browser's *Network Monitor*, we can take a look at some *Headers*.
+The title of the challenge seems to clue us in on the scope of the challenge: web headers. This means that a good place to start looking is our browser's [*Network Monitor*](https://developer.mozilla.org/en-US/docs/Tools/Network_Monitor) (I use Firefox, so I have linked to Mozilla's documentation). By examing the HTTP requests our browser has made for this site, we can take a look at some *Headers*.
 
 ![image](https://user-images.githubusercontent.com/99063625/158116254-c7c4d821-07e0-4091-9d02-dd055f66cf79.png)
 
+### The flag is ```gigem{f0undH3ad3rFl4g}```.
