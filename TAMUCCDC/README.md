@@ -22,6 +22,10 @@
 
 [https://qr.ae/pvJkf5](https://qr.ae/pvJkf5)
 
+[https://phoenixnap.com/kb/how-to-list-display-view-all-cron-jobs-linux](https://phoenixnap.com/kb/how-to-list-display-view-all-cron-jobs-linux)
+
+[https://docs.oracle.com/cd/E23824_01/html/821-1451/sysrescron-24589.html](https://docs.oracle.com/cd/E23824_01/html/821-1451/sysrescron-24589.html)
+
 ```
 netstat -nutlp
 lsof -i
