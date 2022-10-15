@@ -21,3 +21,29 @@
 [https://www.computerworld.com/article/3144985/linux-hardening-a-15-step-checklist-for-a-secure-linux-server.html](https://www.computerworld.com/article/3144985/linux-hardening-a-15-step-checklist-for-a-secure-linux-server.html)
 
 [https://qr.ae/pvJkf5](https://qr.ae/pvJkf5)
+
+```
+netstat -nutlp
+lsof -i
+systemctl
+id ACCOUNT
+userdel -r
+find / -user UID
+find / -nouser
+nc -v HOST PORT
+/etc/ssh/sshd_config
+DenyUsers account1 accountN
+PermitRootLogin no
+PasswordAuthentication no
+PubkeyAuthentication yes
+PermitRootLogin no 
+AllowTcpForwarding no
+GatewayPorts no
+Port 2222
+systemctl reloadsshd
+awk -F: '($3 == "0") {print}' /etc/passwd
+~/.ssh/authorized_keys
+pam_securetty: auth [user_unknown=ignore success=ok ignore=ignore default=bad] securetty.so
+/etc/securetty
+```
+
