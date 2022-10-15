@@ -1,0 +1,60 @@
+﻿SCRIPT CHECKLIST
+
+• Check for root ♦
+• Create log file ♦
+• Create backup folder ♦
+• Set update policies
+• Install updates ♦
+• Remove unused packages ♦
+• Check for shellshock ♦
+• Fix OpenSSL heart bleed bug ♦
+• Secure root user ♦
+• Set UID 0 to root ♦
+• Secure users
+	• Secure lightdm ♦
+	• Check /etc/passwd ♦
+	• Check /etc/sudoers.d ♦ 
+	• Check /etc/group ♦
+	• Delete unauthorized users ♦
+	• Check user dir /home/ ♦
+	• Modify user privileges ♦
+	• Remove alias ♦
+• Secure passwords
+	• Configure /etc/login.defs ♠
+	• Configure pam.d and login.defs ♠
+	• Implement account lockout ♠
+	• Change insecure passwords 
+• Secure network
+	• Enable ufw ♠
+	• Enable cookie protection ♠
+	• Disable/Enable IPv6 ♠
+	• Disable IP forwarding ♠
+	• Prevent IP spoofing ♠
+	• Secure ports
+• Critical service configuration
+• Check for and delete hacking tools
+• Remove startup scripts
+• Remove startup task from crontab
+• Only allow root in cron
+• Remove scripts from /bin
+• Set host file to defaults
+• Disable IRQ balance
+• Configure sysctl
+• Configure/Remove
+	• Samba
+	• Ftp
+	• Ssh
+	• Telnet
+	• Mail
+	• Printing
+	• MySQL
+	• Web servers
+	• Dns
+• Find and remove all media files
+• Remove all suspicious software
+• List all files with a file permission of 700-777
+• List all PHP files
+• Disable ctrl-alt-delete reboot
+• Add apt repositories
+• Set file permissions on critical files (last)
+• Fix fork bomb?
