@@ -26,6 +26,8 @@
 
 [https://docs.oracle.com/cd/E23824_01/html/821-1451/sysrescron-24589.html](https://docs.oracle.com/cd/E23824_01/html/821-1451/sysrescron-24589.html)
 
+[https://github.com/ucrcyber/hivestorm/blob/main/linux_users.sh](https://github.com/ucrcyber/hivestorm/blob/main/linux_users.sh)
+
 ```
 netstat -nutlp
 lsof -i
