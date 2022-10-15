@@ -34,6 +34,7 @@ nc -v HOST PORT
 /etc/ssh/sshd_config
 DenyUsers account1 accountN
 PermitRootLogin no
+Banner none
 PasswordAuthentication no
 PubkeyAuthentication yes
 PermitRootLogin no 
