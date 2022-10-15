@@ -19,3 +19,5 @@
 [https://www.youtube.com/watch?v=hum4hzNE_j8&list=PLRNX6rCpHwNys6o-_z2R1FTlr_cn5FRKw&index=4](https://www.youtube.com/watch?v=hum4hzNE_j8&list=PLRNX6rCpHwNys6o-_z2R1FTlr_cn5FRKw&index=4)
 
 [https://www.computerworld.com/article/3144985/linux-hardening-a-15-step-checklist-for-a-secure-linux-server.html](https://www.computerworld.com/article/3144985/linux-hardening-a-15-step-checklist-for-a-secure-linux-server.html)
+
+[https://qr.ae/pvJkf5](https://qr.ae/pvJkf5)
